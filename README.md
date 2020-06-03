@@ -19,7 +19,7 @@ yarn proj:check
 2. Canvas = 6h
 
 ### Additional tasks time spent
-vue-i18n implementation = 30m (2)
-io-ts implementation = 2h (4)
-eslint/stylint = much of strange things, 2h (5)
-bluebird = 1h (6)
+1. vue-i18n implementation = 30m (2)
+2. io-ts implementation = 2h (4)
+3. eslint/stylint = much of strange things, 2h (5)
+4. bluebird = 1h (6)
