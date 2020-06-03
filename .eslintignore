@@ -1,0 +1,2 @@
+# Ignore main ts for bluebird integration
+/src/main.ts
