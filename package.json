@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@vue/eslint-config-standard": "^5.1.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bluebird": "^3.7.2",
     "core-js": "^3.6.5",
     "element-ui": "^2.4.5",
